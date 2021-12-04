@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**mtwig95/mtwig95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World!
+<!--https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif-->
+<img align='right' src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
+I'm **Maytal Twig**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am motivated and hardworking Computer Science student, with a passion for learning new skills and challenging myself.
+I'm currently looking for my first position as a software engineer.
+
+## 📫 Contact Me on Social Media
+
+[Facebook][-1] | [Llinkedin][0] | or just ✉️ [Email](mailto:mtwig95@gmail.com) 
+
+## 💻 Skills
+I have some works with **Java**, **Python**, **C**, **JavaScript**, **SQL**, **HTML & CSS**, **jQuery**, **OpenGL**.
+
+
+[-1]: https://www.facebook.com/maytal.twig/
+[0]: www.linkedin.com/in/maytal-twig
